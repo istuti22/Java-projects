@@ -1,4 +1,4 @@
-# 🎓 Student Record Management System (Core Java)
+#  Student Record Management System (Core Java)
 
 A simple console-based Java project to manage student records.
 
